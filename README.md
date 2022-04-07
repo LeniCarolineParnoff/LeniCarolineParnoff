@@ -1,8 +1,8 @@
 ### Oi sou a Carol 👋
 
 
-- 🌱 Eu sou estudante de Análise e Desenvolvimento de Sistemas
-- 👯 Desenvolvedora de Sofwtare|Python|MySQL
+- 🌱 Profissional em transição de carreira com foco em Análise e Desenvolvimento de Sistemas, busco oportunidade de estágio na área de Tecnologia, para auxiliar em meu processo de aprendizagem.
+- 👯 Desenvolvedora de Software|Java| Python| MySQL
 
 
 <div>
