@@ -1,8 +1,15 @@
 ### Oi sou a Carol 👋
 
+- 👯 Desenvolvedora de Software| Java | HTML| CSS | MySQL
 
-- 🌱 Profissional em transição de carreira com foco em Análise e Desenvolvimento de Sistemas, busco oportunidade de estágio na área de Tecnologia, para auxiliar em meu processo de aprendizagem.
-- 👯 Desenvolvedora de Software|Java| Python| MySQL
+
+- 🌱 Curso Análise e Desenvolvimento de Sistemas na Estácio de Sá, busco oportunidade na área de Tecnologia para aprimorar minhas hard skills na programação e contribuir com minhas soft skills 📚. 
+
+Atualmente desenvolvo aplicações simples em Java, Banco de dados relacionais (MySQL), HTML, CSS e JS.
+
+Disposta a ser desafiada e aprender novas habilidades no desenvolvimento de software, com interesse em atuar com times ágeis.🚀
+
+
 
 
 <div>
