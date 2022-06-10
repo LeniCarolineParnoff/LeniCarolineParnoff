@@ -1,6 +1,6 @@
 ### Oi sou a Carol 👋
 
-- 👯 Desenvolvedora de Software| Java | HTML| CSS | MySQL
+- 👯 Desenvolvedora de Software| Java | HTML| CSS | Javascript | MySQL
 
 
 - 🌱 Curso Análise e Desenvolvimento de Sistemas na Estácio de Sá, busco oportunidade na área de Tecnologia para aprimorar minhas hard skills na programação e contribuir com minhas soft skills 📚. 
