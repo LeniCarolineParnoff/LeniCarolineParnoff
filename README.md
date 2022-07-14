@@ -4,7 +4,7 @@
 
 - 🌱 Curso Análise e Desenvolvimento de Sistemas na Estácio de Sá, busco oportunidade na área de Tecnologia para aprimorar minhas hard skills na programação e contribuir com minhas soft skills 📚. 
 
-- Atualmente desenvolvo aplicações simples em Java, Banco de dados relacionais (MySQL), HTML, CSS e JS.
+- Atualmente desenvolvo aplicações simples em Java, Banco de dados relacionais (MySQL), HTML e CSS. 
 
 - Disposta a ser desafiada e aprender novas habilidades no desenvolvimento de software, com interesse em atuar com times ágeis.🚀
 
