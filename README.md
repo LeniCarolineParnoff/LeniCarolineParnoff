@@ -2,8 +2,6 @@
 
 - 👯 Desenvolvedora de Software| Java | HTML| CSS | Javascript | MySQL
 
-- Buscando aprimorar minhas hard skills, dia após dia! 💪
-
 - 🌱 Curso Análise e Desenvolvimento de Sistemas na Estácio de Sá, busco oportunidade na área de Tecnologia para aprimorar minhas hard skills na programação e contribuir com minhas soft skills 📚. 
 
 - Atualmente desenvolvo aplicações simples em Java, Banco de dados relacionais (MySQL), HTML, CSS e JS.
